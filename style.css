@@ -1,0 +1,46 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+header{
+    color: orangered;
+    background-color: white;
+    
+}   
+button{
+    color: white;
+    background-color: blue;
+    border: none;
+    height:25px ;
+    width: 15;
+    border-radius: 5px;
+    padding:5px;
+
+}
+ul{
+font-size: 12px;
+float: right;
+
+
+
+}
+li{
+font-size: 1.5em;
+list-style: none;
+display: inline-block;
+margin-right: 5px;
+}
+img{
+    
+    width: 113px;
+    height: 146px;
+    float: left;
+}
+
+section #flyer-unitel{
+
+    width: 100%;
+    height: 100%;
+}
